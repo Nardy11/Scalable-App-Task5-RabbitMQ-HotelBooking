@@ -129,12 +129,6 @@ mvn spring-boot:run
 
 ---
 
-## Why Hire Me?
-
-This task showcases my ability to design robust, scalable service architectures. I effectively integrated synchronous (OpenFeign) and asynchronous (RabbitMQ) communication patterns and ensured clean service separation and error handling—ideal for microservices-based enterprise systems.
-
----
-
 ## Submission Details
 
 * Environment: `YourName_52_1234`
